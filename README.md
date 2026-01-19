@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (677)" src="https://github.com/user-attachments/assets/fd1971e9-2626-4c1c-a1d5-c8fc26cf5529" />
 # Reddit Sentiment Analysis
 
 A Python-based project that performs sentiment analysis on Reddit comments. 
